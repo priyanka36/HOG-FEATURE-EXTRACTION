@@ -1,0 +1,512 @@
+[
+    {
+        "Country": "Canada",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "1618.5",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$32",
+        "SalesQty": "370.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "1321",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$26",
+        "SalesQty": "420.00"
+    },
+    {
+        "Country": "France",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "2178",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$32",
+        "SalesQty": "670.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "888",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$13",
+        "SalesQty": "320.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "2470",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$37",
+        "SalesQty": "050.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": "1513",
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$529",
+        "SalesQty": "550.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "921",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$13",
+        "SalesQty": "815.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "2518",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$30",
+        "SalesQty": "216.00"
+    },
+    {
+        "Country": "France",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "1899",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$37",
+        "SalesQty": "980.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "1545",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$18",
+        "SalesQty": "540.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "2470",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$37",
+        "SalesQty": "050.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "2665.5",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$333",
+        "SalesQty": "187.50"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "958",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$300.00",
+        "GrossSales": "$287",
+        "SalesQty": "400.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "2146",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$7.00",
+        "GrossSales": "$15",
+        "SalesQty": "022.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "345",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$43",
+        "SalesQty": "125.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Montana",
+        "DiscountBand": "None",
+        "UnitsSold": "615",
+        "ManufacturingPrice": "$5.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$9",
+        "SalesQty": "225.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "292",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$5",
+        "SalesQty": "840.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "974",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$14",
+        "SalesQty": "610.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "2518",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$30",
+        "SalesQty": "216.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "1006",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$352",
+        "SalesQty": "100.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "367",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$4",
+        "SalesQty": "404.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "883",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$7.00",
+        "GrossSales": "$6",
+        "SalesQty": "181.00"
+    },
+    {
+        "Country": "France",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "549",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$8",
+        "SalesQty": "235.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "788",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$300.00",
+        "GrossSales": "$236",
+        "SalesQty": "400.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "2472",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$37",
+        "SalesQty": "080.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "1143",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$7.00",
+        "GrossSales": "$8",
+        "SalesQty": "001.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "1725",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$603",
+        "SalesQty": "750.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "912",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$10",
+        "SalesQty": "944.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "2152",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$32",
+        "SalesQty": "280.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "1817",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$36",
+        "SalesQty": "340.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Paseo",
+        "DiscountBand": "None",
+        "UnitsSold": "1513",
+        "ManufacturingPrice": "$10.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$529",
+        "SalesQty": "550.00"
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "1493",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$7.00",
+        "GrossSales": "$10",
+        "SalesQty": "451.00"
+    },
+    {
+        "Country": "France",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "1804",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$225",
+        "SalesQty": "500.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "2161",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$25",
+        "SalesQty": "932.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "1006",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$352",
+        "SalesQty": "100.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "1545",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$18",
+        "SalesQty": "540.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "2821",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$352",
+        "SalesQty": "625.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "Velo",
+        "DiscountBand": "None",
+        "UnitsSold": "345",
+        "ManufacturingPrice": "$120.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$43",
+        "SalesQty": "125.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "2001",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$300.00",
+        "GrossSales": "$600",
+        "SalesQty": "300.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "2838",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$34",
+        "SalesQty": "056.00"
+    },
+    {
+        "Country": "France",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "2178",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$32",
+        "SalesQty": "670.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "888",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$13",
+        "SalesQty": "320.00"
+    },
+    {
+        "Country": "France",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "1527",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$534",
+        "SalesQty": "450.00"
+    },
+    {
+        "Country": "France",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "2151",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$300.00",
+        "GrossSales": "$645",
+        "SalesQty": "300.00"
+    },
+    {
+        "Country": "Canada",
+        "Product": "VTT",
+        "DiscountBand": "None",
+        "UnitsSold": "1817",
+        "ManufacturingPrice": "$250.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$36",
+        "SalesQty": "340.00"
+    },
+    {
+        "Country": "France",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "2750",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$350.00",
+        "GrossSales": "$962",
+        "SalesQty": "500.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "1953",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$23",
+        "SalesQty": "436.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "4219.5",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$125.00",
+        "GrossSales": "$527",
+        "SalesQty": "437.50"
+    },
+    {
+        "Country": "France",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "1899",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$37",
+        "SalesQty": "980.00"
+    },
+    {
+        "Country": "Germany",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "1686",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$7.00",
+        "GrossSales": "$11",
+        "SalesQty": "802.00"
+    },
+    {
+        "Country": "UnitedStatesofAmerica",
+        "Product": "Amarilla",
+        "DiscountBand": "None",
+        "UnitsSold": "2141",
+        "ManufacturingPrice": "$260.00",
+        "SalePrice": "$12.00",
+        "GrossSales": "$25",
+        "SalesQty": "692.00"
+    }
+]
